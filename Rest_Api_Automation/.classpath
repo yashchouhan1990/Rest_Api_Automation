@@ -2,5 +2,24 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/fluent-hc-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpclient-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpclient-cache-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpclient-osgi-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpclient-win-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpcore-ab-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpcore-nio-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpcore-osgi-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/httpmime-4.5.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A622893/OneDrive - Atos/Automation/RestApi-jars/complete-jars/testng-6.14.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
